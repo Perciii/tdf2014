@@ -1,0 +1,11 @@
+create class Race extends V;
+create class Team extends V;
+create class Rider extends V;
+create class Stage extends V;
+create class Climb extends V;
+create class Intermediate_Sprint extends V;
+create class RIDES_FOR extends E;
+create class TAKES_PART_IN extends E;
+create class IS_A_STAGE_OF extends E;
+create class INCLUDES extends E;
+create class TAKES_PLACE_IN extends E;

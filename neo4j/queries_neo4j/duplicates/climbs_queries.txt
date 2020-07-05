@@ -1,0 +1,3 @@
+LOAD CSV WITH HEADERS FROM "file:///3-climbs.csv" AS csvLine
+MATCH (s:Stage { number: toInteger(csvLine.STAGE_NUMBER) })
+CREATE (s)-[:INCLUDES]->(c:Climb { startingAtKm: toFloat(csvLine.STARTING_AT_KM), name: csvLine.NAME, initialAltitude: toFloat(csvLine.INITIAL_ALTITUDE), averageSlope: toFloat(csvLine.AVERAGE_SLOPE), distance: toFloat(csvLine.DISTANCE), category: csvLine.CATEGORY });

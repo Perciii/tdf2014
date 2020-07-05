@@ -1,4 +1,0 @@
-LOAD CSV WITH HEADERS FROM "https://raw.githubusercontent.com/inserpio/tour-de-france-2014/master/tour-de-france-2014-0001-teams-and-riders.csv" AS csvLine
-MERGE (r:Race { id: toInteger(csvLine.RACE_ID), name: csvLine.RACE_NAME, from: csvLine.RACE_FROM, to: csvLine.RACE_TO, edition: csvLine.RACE_EDITION, distance: csvLine.RACE_DISTANCE, number_of_stages: csvLine.RACE_NUMBER_OF_STAGES, website: csvLine.RACE_WEBSITE })
-MERGE (t:Team { id: toInteger(csvLine.TEAM_ID), name: csvLine.TEAM_NAME, country: csvLine.TEAM_COUNTRY, sportingDirectors: csvLine.TEAM_MANAGERS }) MERGE (p:Rider { name: csvLine.RIDER_NAME, country: csvLine.RIDER_COUNTRY })
-CREATE (t)-[:TAKES_PART_IN]->(r)<-[:TAKES_PART_IN { number: toInteger(csvLine.RIDER_NUMBER), info: csvLine.RIDER_INFO }]-(p), (p)-[:RIDES_FOR { year: toInteger(csvLine.RACE_YEAR) }]->(t);

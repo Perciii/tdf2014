@@ -1,4 +1,0 @@
-LOAD CSV WITH HEADERS FROM "https://raw.githubusercontent.com/inserpio/tour-de-france-2014/master/tour-de-france-2014-0004-intermediate_sprints.csv" AS csvLine
-MERGE (c:City { name: csvLine.CITY, country: csvLine.COUNTRY, lat: toFloat(csvLine.LATITUDE), lon: toFloat(csvLine.LONGITUDE) })
-WITH c, csvLine MATCH (s:Stage { number: toInteger(csvLine.STAGE_NUMBER) })
-CREATE (s)-[:INCLUDES]->(i:IntermediateSprint { atKm: toFloat(csvLine.AT_KM) })-[:TAKES_PLACE_IN]->(c);

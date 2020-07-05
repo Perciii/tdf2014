@@ -1,0 +1,211 @@
+RACE_ID,STAGE_NUMBER,STAGE_TYPE,STAGE_DATE,STAGE_START,STAGE_START_COUNTRY,STAGE_START_LATITUDE,STAGE_START_LONGITUDE,STAGE_FINISH,STAGE_FINISH_COUNTRY,STAGE_FINISH_LATITUDE,STAGE_FINISH_LONGITUDE,STAGE_DISTANCE,STAGE_INFO
+1,1,Flat,5/7/2014,Leeds,ENG,53.799722,-1.549167,Harrogate,ENG,53.991,-1.539,190.5,http://www.letour.com/le-tour/2014/us/stage-1.html
+1,2,Hilly,6/7/2014,York,ENG,53.958333,-1.080278,Sheffield,ENG,53.383611,-1.466944,201,http://www.letour.com/le-tour/2014/us/stage-2.html
+1,3,Flat,7/7/2014,Cambridge,ENG,52.205,0.119,Londres,ENG,51.507222,-0.1275,155,http://www.letour.com/le-tour/2014/us/stage-3.html
+1,4,Flat,8/7/2014,Le Touquet-Paris-Plage,FRA,50.5186,1.595,Lille Métropole,FRA,50.6372,3.0633,163.5,http://www.letour.com/le-tour/2014/us/stage-4.html
+1,5,Hilly,9/7/2014,Ypres,FRA,50.85,2.883333,Arenberg Porte du Hainaut,FRA,50.399,3.4125,155.5,http://www.letour.com/le-tour/2014/us/stage-5.html
+1,6,Flat,10/7/2014,Arras,FRA,50.2897,2.7808,Reims,FRA,49.2628,4.0347,194,http://www.letour.com/le-tour/2014/us/stage-6.html
+1,7,Flat,11/7/2014,Épernay,FRA,49.0403,3.96,Nancy,FRA,48.6936,6.1846,234.5,http://www.letour.com/le-tour/2014/us/stage-7.html
+1,8,Hilly,12/7/2014,Tomblaine,FRA,48.6833,6.2167,Gérardmer La Mauselaine,FRA,48.08,6.88,161,http://www.letour.com/le-tour/2014/us/stage-8.html
+1,9,Hilly,13/07/2014,Gérardmer,FRA,48.08,6.88,Mulhouse,FRA,47.75,7.34,170,http://www.letour.com/le-tour/2014/us/stage-9.html
+1,10,Mountain,14/07/2014,Mulhouse,FRA,47.75,7.34,La Planche des Belles Filles,FRA,47.772222,6.777778,161.5,http://www.letour.com/le-tour/2014/us/stage-10.html
+1,11,Hilly,16/07/2014,Besançon,FRA,47.2431,6.0219,Oyonnax,FRA,46.2561,5.6556,187.5,http://www.letour.com/le-tour/2014/us/stage-11.html
+1,12,Flat,17/07/2014,Bourg-en-Bresse,FRA,46.2056,5.2289,Saint-Étienne,FRA,45.4347,4.3903,185.5,http://www.letour.com/le-tour/2014/us/stage-12.html
+1,13,Mountain,18/07/2014,Saint-Étienne,FRA,45.4347,4.3903,Chamrousse,FRA,45.1092,5.8744,197.5,http://www.letour.com/le-tour/2014/us/stage-13.html
+1,14,Mountain,19/07/2014,Grenoble,FRA,45.2002,5.7222,Risoul,FRA,44.6497,6.6408,177,http://www.letour.com/le-tour/2014/us/stage-14.html
+1,15,Flat,20/07/2014,Tallard,FRA,44.4625,6.0553,Nîmes,FRA,43.838,4.361,222,http://www.letour.com/le-tour/2014/us/stage-15.html
+1,16,Mountain,22/07/2014,Carcassonne,FRA,43.21,2.35,Bagnères-de-Luchon,FRA,42.7917,0.5947,237.5,http://www.letour.com/le-tour/2014/us/stage-16.html
+1,17,Mountain,23/07/2014,Saint-Gaudens,FRA,43.1089,0.7242,Saint-Lary Pla d’Adet,FRA,42.82,0.32,124.5,http://www.letour.com/le-tour/2014/us/stage-17.html
+1,18,Mountain,24/07/2014,Pau,FRA,43.3,-0.37,Hautacam,FRA,42.972222,-0.008056,145.5,http://www.letour.com/le-tour/2014/us/stage-18.html
+1,19,Flat,25/07/2014,Maubourguet Pays du Val d’Adour,FRA,43.4692,0.0364,Bergerac,FRA,44.85,0.48,208.5,http://www.letour.com/le-tour/2014/us/stage-19.html
+1,20,Individual time-trial,26/07/2014,Bergerac,FRA,44.85,0.48,Périgueux,FRA,45.1929,0.7217,54,http://www.letour.com/le-tour/2014/us/stage-20.html
+1,21,Flat,27/07/2014,Évry,FRA,48.6238,2.4296,Paris Champs-Élysées,FRA,48.8567,2.3508,137.5,http://www.letour.com/le-tour/2014/us/stage-21.html
+1,22,Flat,5/7/2014,Leeds,ENG,53.799722,-1.549167,Harrogate,ENG,53.991,-1.539,190.5,http://www.letour.com/le-tour/2014/us/stage-1.html
+1,23,Hilly,6/7/2014,York,ENG,53.958333,-1.080278,Sheffield,ENG,53.383611,-1.466944,201,http://www.letour.com/le-tour/2014/us/stage-2.html
+1,24,Flat,7/7/2014,Cambridge,ENG,52.205,0.119,Londres,ENG,51.507222,-0.1275,155,http://www.letour.com/le-tour/2014/us/stage-3.html
+1,25,Flat,8/7/2014,Le Touquet-Paris-Plage,FRA,50.5186,1.595,Lille Métropole,FRA,50.6372,3.0633,163.5,http://www.letour.com/le-tour/2014/us/stage-4.html
+1,26,Hilly,9/7/2014,Ypres,FRA,50.85,2.883333,Arenberg Porte du Hainaut,FRA,50.399,3.4125,155.5,http://www.letour.com/le-tour/2014/us/stage-5.html
+1,27,Flat,10/7/2014,Arras,FRA,50.2897,2.7808,Reims,FRA,49.2628,4.0347,194,http://www.letour.com/le-tour/2014/us/stage-6.html
+1,28,Flat,11/7/2014,Épernay,FRA,49.0403,3.96,Nancy,FRA,48.6936,6.1846,234.5,http://www.letour.com/le-tour/2014/us/stage-7.html
+1,29,Hilly,12/7/2014,Tomblaine,FRA,48.6833,6.2167,Gérardmer La Mauselaine,FRA,48.08,6.88,161,http://www.letour.com/le-tour/2014/us/stage-8.html
+1,30,Hilly,13/07/2014,Gérardmer,FRA,48.08,6.88,Mulhouse,FRA,47.75,7.34,170,http://www.letour.com/le-tour/2014/us/stage-9.html
+1,31,Mountain,14/07/2014,Mulhouse,FRA,47.75,7.34,La Planche des Belles Filles,FRA,47.772222,6.777778,161.5,http://www.letour.com/le-tour/2014/us/stage-10.html
+1,32,Hilly,16/07/2014,Besançon,FRA,47.2431,6.0219,Oyonnax,FRA,46.2561,5.6556,187.5,http://www.letour.com/le-tour/2014/us/stage-11.html
+1,33,Flat,17/07/2014,Bourg-en-Bresse,FRA,46.2056,5.2289,Saint-Étienne,FRA,45.4347,4.3903,185.5,http://www.letour.com/le-tour/2014/us/stage-12.html
+1,34,Mountain,18/07/2014,Saint-Étienne,FRA,45.4347,4.3903,Chamrousse,FRA,45.1092,5.8744,197.5,http://www.letour.com/le-tour/2014/us/stage-13.html
+1,35,Mountain,19/07/2014,Grenoble,FRA,45.2002,5.7222,Risoul,FRA,44.6497,6.6408,177,http://www.letour.com/le-tour/2014/us/stage-14.html
+1,36,Flat,20/07/2014,Tallard,FRA,44.4625,6.0553,Nîmes,FRA,43.838,4.361,222,http://www.letour.com/le-tour/2014/us/stage-15.html
+1,37,Mountain,22/07/2014,Carcassonne,FRA,43.21,2.35,Bagnères-de-Luchon,FRA,42.7917,0.5947,237.5,http://www.letour.com/le-tour/2014/us/stage-16.html
+1,38,Mountain,23/07/2014,Saint-Gaudens,FRA,43.1089,0.7242,Saint-Lary Pla d’Adet,FRA,42.82,0.32,124.5,http://www.letour.com/le-tour/2014/us/stage-17.html
+1,39,Mountain,24/07/2014,Pau,FRA,43.3,-0.37,Hautacam,FRA,42.972222,-0.008056,145.5,http://www.letour.com/le-tour/2014/us/stage-18.html
+1,40,Flat,25/07/2014,Maubourguet Pays du Val d’Adour,FRA,43.4692,0.0364,Bergerac,FRA,44.85,0.48,208.5,http://www.letour.com/le-tour/2014/us/stage-19.html
+1,41,Individual time-trial,26/07/2014,Bergerac,FRA,44.85,0.48,Périgueux,FRA,45.1929,0.7217,54,http://www.letour.com/le-tour/2014/us/stage-20.html
+1,42,Flat,27/07/2014,Évry,FRA,48.6238,2.4296,Paris Champs-Élysées,FRA,48.8567,2.3508,137.5,http://www.letour.com/le-tour/2014/us/stage-21.html
+1,43,Flat,5/7/2014,Leeds,ENG,53.799722,-1.549167,Harrogate,ENG,53.991,-1.539,190.5,http://www.letour.com/le-tour/2014/us/stage-1.html
+1,44,Hilly,6/7/2014,York,ENG,53.958333,-1.080278,Sheffield,ENG,53.383611,-1.466944,201,http://www.letour.com/le-tour/2014/us/stage-2.html
+1,45,Flat,7/7/2014,Cambridge,ENG,52.205,0.119,Londres,ENG,51.507222,-0.1275,155,http://www.letour.com/le-tour/2014/us/stage-3.html
+1,46,Flat,8/7/2014,Le Touquet-Paris-Plage,FRA,50.5186,1.595,Lille Métropole,FRA,50.6372,3.0633,163.5,http://www.letour.com/le-tour/2014/us/stage-4.html
+1,47,Hilly,9/7/2014,Ypres,FRA,50.85,2.883333,Arenberg Porte du Hainaut,FRA,50.399,3.4125,155.5,http://www.letour.com/le-tour/2014/us/stage-5.html
+1,48,Flat,10/7/2014,Arras,FRA,50.2897,2.7808,Reims,FRA,49.2628,4.0347,194,http://www.letour.com/le-tour/2014/us/stage-6.html
+1,49,Flat,11/7/2014,Épernay,FRA,49.0403,3.96,Nancy,FRA,48.6936,6.1846,234.5,http://www.letour.com/le-tour/2014/us/stage-7.html
+1,50,Hilly,12/7/2014,Tomblaine,FRA,48.6833,6.2167,Gérardmer La Mauselaine,FRA,48.08,6.88,161,http://www.letour.com/le-tour/2014/us/stage-8.html
+1,51,Hilly,13/07/2014,Gérardmer,FRA,48.08,6.88,Mulhouse,FRA,47.75,7.34,170,http://www.letour.com/le-tour/2014/us/stage-9.html
+1,52,Mountain,14/07/2014,Mulhouse,FRA,47.75,7.34,La Planche des Belles Filles,FRA,47.772222,6.777778,161.5,http://www.letour.com/le-tour/2014/us/stage-10.html
+1,53,Hilly,16/07/2014,Besançon,FRA,47.2431,6.0219,Oyonnax,FRA,46.2561,5.6556,187.5,http://www.letour.com/le-tour/2014/us/stage-11.html
+1,54,Flat,17/07/2014,Bourg-en-Bresse,FRA,46.2056,5.2289,Saint-Étienne,FRA,45.4347,4.3903,185.5,http://www.letour.com/le-tour/2014/us/stage-12.html
+1,55,Mountain,18/07/2014,Saint-Étienne,FRA,45.4347,4.3903,Chamrousse,FRA,45.1092,5.8744,197.5,http://www.letour.com/le-tour/2014/us/stage-13.html
+1,56,Mountain,19/07/2014,Grenoble,FRA,45.2002,5.7222,Risoul,FRA,44.6497,6.6408,177,http://www.letour.com/le-tour/2014/us/stage-14.html
+1,57,Flat,20/07/2014,Tallard,FRA,44.4625,6.0553,Nîmes,FRA,43.838,4.361,222,http://www.letour.com/le-tour/2014/us/stage-15.html
+1,58,Mountain,22/07/2014,Carcassonne,FRA,43.21,2.35,Bagnères-de-Luchon,FRA,42.7917,0.5947,237.5,http://www.letour.com/le-tour/2014/us/stage-16.html
+1,59,Mountain,23/07/2014,Saint-Gaudens,FRA,43.1089,0.7242,Saint-Lary Pla d’Adet,FRA,42.82,0.32,124.5,http://www.letour.com/le-tour/2014/us/stage-17.html
+1,60,Mountain,24/07/2014,Pau,FRA,43.3,-0.37,Hautacam,FRA,42.972222,-0.008056,145.5,http://www.letour.com/le-tour/2014/us/stage-18.html
+1,61,Flat,25/07/2014,Maubourguet Pays du Val d’Adour,FRA,43.4692,0.0364,Bergerac,FRA,44.85,0.48,208.5,http://www.letour.com/le-tour/2014/us/stage-19.html
+1,62,Individual time-trial,26/07/2014,Bergerac,FRA,44.85,0.48,Périgueux,FRA,45.1929,0.7217,54,http://www.letour.com/le-tour/2014/us/stage-20.html
+1,63,Flat,27/07/2014,Évry,FRA,48.6238,2.4296,Paris Champs-Élysées,FRA,48.8567,2.3508,137.5,http://www.letour.com/le-tour/2014/us/stage-21.html
+1,64,Flat,5/7/2014,Leeds,ENG,53.799722,-1.549167,Harrogate,ENG,53.991,-1.539,190.5,http://www.letour.com/le-tour/2014/us/stage-1.html
+1,65,Hilly,6/7/2014,York,ENG,53.958333,-1.080278,Sheffield,ENG,53.383611,-1.466944,201,http://www.letour.com/le-tour/2014/us/stage-2.html
+1,66,Flat,7/7/2014,Cambridge,ENG,52.205,0.119,Londres,ENG,51.507222,-0.1275,155,http://www.letour.com/le-tour/2014/us/stage-3.html
+1,67,Flat,8/7/2014,Le Touquet-Paris-Plage,FRA,50.5186,1.595,Lille Métropole,FRA,50.6372,3.0633,163.5,http://www.letour.com/le-tour/2014/us/stage-4.html
+1,68,Hilly,9/7/2014,Ypres,FRA,50.85,2.883333,Arenberg Porte du Hainaut,FRA,50.399,3.4125,155.5,http://www.letour.com/le-tour/2014/us/stage-5.html
+1,69,Flat,10/7/2014,Arras,FRA,50.2897,2.7808,Reims,FRA,49.2628,4.0347,194,http://www.letour.com/le-tour/2014/us/stage-6.html
+1,70,Flat,11/7/2014,Épernay,FRA,49.0403,3.96,Nancy,FRA,48.6936,6.1846,234.5,http://www.letour.com/le-tour/2014/us/stage-7.html
+1,71,Hilly,12/7/2014,Tomblaine,FRA,48.6833,6.2167,Gérardmer La Mauselaine,FRA,48.08,6.88,161,http://www.letour.com/le-tour/2014/us/stage-8.html
+1,72,Hilly,13/07/2014,Gérardmer,FRA,48.08,6.88,Mulhouse,FRA,47.75,7.34,170,http://www.letour.com/le-tour/2014/us/stage-9.html
+1,73,Mountain,14/07/2014,Mulhouse,FRA,47.75,7.34,La Planche des Belles Filles,FRA,47.772222,6.777778,161.5,http://www.letour.com/le-tour/2014/us/stage-10.html
+1,74,Hilly,16/07/2014,Besançon,FRA,47.2431,6.0219,Oyonnax,FRA,46.2561,5.6556,187.5,http://www.letour.com/le-tour/2014/us/stage-11.html
+1,75,Flat,17/07/2014,Bourg-en-Bresse,FRA,46.2056,5.2289,Saint-Étienne,FRA,45.4347,4.3903,185.5,http://www.letour.com/le-tour/2014/us/stage-12.html
+1,76,Mountain,18/07/2014,Saint-Étienne,FRA,45.4347,4.3903,Chamrousse,FRA,45.1092,5.8744,197.5,http://www.letour.com/le-tour/2014/us/stage-13.html
+1,77,Mountain,19/07/2014,Grenoble,FRA,45.2002,5.7222,Risoul,FRA,44.6497,6.6408,177,http://www.letour.com/le-tour/2014/us/stage-14.html
+1,78,Flat,20/07/2014,Tallard,FRA,44.4625,6.0553,Nîmes,FRA,43.838,4.361,222,http://www.letour.com/le-tour/2014/us/stage-15.html
+1,79,Mountain,22/07/2014,Carcassonne,FRA,43.21,2.35,Bagnères-de-Luchon,FRA,42.7917,0.5947,237.5,http://www.letour.com/le-tour/2014/us/stage-16.html
+1,80,Mountain,23/07/2014,Saint-Gaudens,FRA,43.1089,0.7242,Saint-Lary Pla d’Adet,FRA,42.82,0.32,124.5,http://www.letour.com/le-tour/2014/us/stage-17.html
+1,81,Mountain,24/07/2014,Pau,FRA,43.3,-0.37,Hautacam,FRA,42.972222,-0.008056,145.5,http://www.letour.com/le-tour/2014/us/stage-18.html
+1,82,Flat,25/07/2014,Maubourguet Pays du Val d’Adour,FRA,43.4692,0.0364,Bergerac,FRA,44.85,0.48,208.5,http://www.letour.com/le-tour/2014/us/stage-19.html
+1,83,Individual time-trial,26/07/2014,Bergerac,FRA,44.85,0.48,Périgueux,FRA,45.1929,0.7217,54,http://www.letour.com/le-tour/2014/us/stage-20.html
+1,84,Flat,27/07/2014,Évry,FRA,48.6238,2.4296,Paris Champs-Élysées,FRA,48.8567,2.3508,137.5,http://www.letour.com/le-tour/2014/us/stage-21.html
+1,85,Flat,5/7/2014,Leeds,ENG,53.799722,-1.549167,Harrogate,ENG,53.991,-1.539,190.5,http://www.letour.com/le-tour/2014/us/stage-1.html
+1,86,Hilly,6/7/2014,York,ENG,53.958333,-1.080278,Sheffield,ENG,53.383611,-1.466944,201,http://www.letour.com/le-tour/2014/us/stage-2.html
+1,87,Flat,7/7/2014,Cambridge,ENG,52.205,0.119,Londres,ENG,51.507222,-0.1275,155,http://www.letour.com/le-tour/2014/us/stage-3.html
+1,88,Flat,8/7/2014,Le Touquet-Paris-Plage,FRA,50.5186,1.595,Lille Métropole,FRA,50.6372,3.0633,163.5,http://www.letour.com/le-tour/2014/us/stage-4.html
+1,89,Hilly,9/7/2014,Ypres,FRA,50.85,2.883333,Arenberg Porte du Hainaut,FRA,50.399,3.4125,155.5,http://www.letour.com/le-tour/2014/us/stage-5.html
+1,90,Flat,10/7/2014,Arras,FRA,50.2897,2.7808,Reims,FRA,49.2628,4.0347,194,http://www.letour.com/le-tour/2014/us/stage-6.html
+1,91,Flat,11/7/2014,Épernay,FRA,49.0403,3.96,Nancy,FRA,48.6936,6.1846,234.5,http://www.letour.com/le-tour/2014/us/stage-7.html
+1,92,Hilly,12/7/2014,Tomblaine,FRA,48.6833,6.2167,Gérardmer La Mauselaine,FRA,48.08,6.88,161,http://www.letour.com/le-tour/2014/us/stage-8.html
+1,93,Hilly,13/07/2014,Gérardmer,FRA,48.08,6.88,Mulhouse,FRA,47.75,7.34,170,http://www.letour.com/le-tour/2014/us/stage-9.html
+1,94,Mountain,14/07/2014,Mulhouse,FRA,47.75,7.34,La Planche des Belles Filles,FRA,47.772222,6.777778,161.5,http://www.letour.com/le-tour/2014/us/stage-10.html
+1,95,Hilly,16/07/2014,Besançon,FRA,47.2431,6.0219,Oyonnax,FRA,46.2561,5.6556,187.5,http://www.letour.com/le-tour/2014/us/stage-11.html
+1,96,Flat,17/07/2014,Bourg-en-Bresse,FRA,46.2056,5.2289,Saint-Étienne,FRA,45.4347,4.3903,185.5,http://www.letour.com/le-tour/2014/us/stage-12.html
+1,97,Mountain,18/07/2014,Saint-Étienne,FRA,45.4347,4.3903,Chamrousse,FRA,45.1092,5.8744,197.5,http://www.letour.com/le-tour/2014/us/stage-13.html
+1,98,Mountain,19/07/2014,Grenoble,FRA,45.2002,5.7222,Risoul,FRA,44.6497,6.6408,177,http://www.letour.com/le-tour/2014/us/stage-14.html
+1,99,Flat,20/07/2014,Tallard,FRA,44.4625,6.0553,Nîmes,FRA,43.838,4.361,222,http://www.letour.com/le-tour/2014/us/stage-15.html
+1,100,Mountain,22/07/2014,Carcassonne,FRA,43.21,2.35,Bagnères-de-Luchon,FRA,42.7917,0.5947,237.5,http://www.letour.com/le-tour/2014/us/stage-16.html
+1,101,Mountain,23/07/2014,Saint-Gaudens,FRA,43.1089,0.7242,Saint-Lary Pla d’Adet,FRA,42.82,0.32,124.5,http://www.letour.com/le-tour/2014/us/stage-17.html
+1,102,Mountain,24/07/2014,Pau,FRA,43.3,-0.37,Hautacam,FRA,42.972222,-0.008056,145.5,http://www.letour.com/le-tour/2014/us/stage-18.html
+1,103,Flat,25/07/2014,Maubourguet Pays du Val d’Adour,FRA,43.4692,0.0364,Bergerac,FRA,44.85,0.48,208.5,http://www.letour.com/le-tour/2014/us/stage-19.html
+1,104,Individual time-trial,26/07/2014,Bergerac,FRA,44.85,0.48,Périgueux,FRA,45.1929,0.7217,54,http://www.letour.com/le-tour/2014/us/stage-20.html
+1,105,Flat,27/07/2014,Évry,FRA,48.6238,2.4296,Paris Champs-Élysées,FRA,48.8567,2.3508,137.5,http://www.letour.com/le-tour/2014/us/stage-21.html
+1,106,Flat,5/7/2014,Leeds,ENG,53.799722,-1.549167,Harrogate,ENG,53.991,-1.539,190.5,http://www.letour.com/le-tour/2014/us/stage-1.html
+1,107,Hilly,6/7/2014,York,ENG,53.958333,-1.080278,Sheffield,ENG,53.383611,-1.466944,201,http://www.letour.com/le-tour/2014/us/stage-2.html
+1,108,Flat,7/7/2014,Cambridge,ENG,52.205,0.119,Londres,ENG,51.507222,-0.1275,155,http://www.letour.com/le-tour/2014/us/stage-3.html
+1,109,Flat,8/7/2014,Le Touquet-Paris-Plage,FRA,50.5186,1.595,Lille Métropole,FRA,50.6372,3.0633,163.5,http://www.letour.com/le-tour/2014/us/stage-4.html
+1,110,Hilly,9/7/2014,Ypres,FRA,50.85,2.883333,Arenberg Porte du Hainaut,FRA,50.399,3.4125,155.5,http://www.letour.com/le-tour/2014/us/stage-5.html
+1,111,Flat,10/7/2014,Arras,FRA,50.2897,2.7808,Reims,FRA,49.2628,4.0347,194,http://www.letour.com/le-tour/2014/us/stage-6.html
+1,112,Flat,11/7/2014,Épernay,FRA,49.0403,3.96,Nancy,FRA,48.6936,6.1846,234.5,http://www.letour.com/le-tour/2014/us/stage-7.html
+1,113,Hilly,12/7/2014,Tomblaine,FRA,48.6833,6.2167,Gérardmer La Mauselaine,FRA,48.08,6.88,161,http://www.letour.com/le-tour/2014/us/stage-8.html
+1,114,Hilly,13/07/2014,Gérardmer,FRA,48.08,6.88,Mulhouse,FRA,47.75,7.34,170,http://www.letour.com/le-tour/2014/us/stage-9.html
+1,115,Mountain,14/07/2014,Mulhouse,FRA,47.75,7.34,La Planche des Belles Filles,FRA,47.772222,6.777778,161.5,http://www.letour.com/le-tour/2014/us/stage-10.html
+1,116,Hilly,16/07/2014,Besançon,FRA,47.2431,6.0219,Oyonnax,FRA,46.2561,5.6556,187.5,http://www.letour.com/le-tour/2014/us/stage-11.html
+1,117,Flat,17/07/2014,Bourg-en-Bresse,FRA,46.2056,5.2289,Saint-Étienne,FRA,45.4347,4.3903,185.5,http://www.letour.com/le-tour/2014/us/stage-12.html
+1,118,Mountain,18/07/2014,Saint-Étienne,FRA,45.4347,4.3903,Chamrousse,FRA,45.1092,5.8744,197.5,http://www.letour.com/le-tour/2014/us/stage-13.html
+1,119,Mountain,19/07/2014,Grenoble,FRA,45.2002,5.7222,Risoul,FRA,44.6497,6.6408,177,http://www.letour.com/le-tour/2014/us/stage-14.html
+1,120,Flat,20/07/2014,Tallard,FRA,44.4625,6.0553,Nîmes,FRA,43.838,4.361,222,http://www.letour.com/le-tour/2014/us/stage-15.html
+1,121,Mountain,22/07/2014,Carcassonne,FRA,43.21,2.35,Bagnères-de-Luchon,FRA,42.7917,0.5947,237.5,http://www.letour.com/le-tour/2014/us/stage-16.html
+1,122,Mountain,23/07/2014,Saint-Gaudens,FRA,43.1089,0.7242,Saint-Lary Pla d’Adet,FRA,42.82,0.32,124.5,http://www.letour.com/le-tour/2014/us/stage-17.html
+1,123,Mountain,24/07/2014,Pau,FRA,43.3,-0.37,Hautacam,FRA,42.972222,-0.008056,145.5,http://www.letour.com/le-tour/2014/us/stage-18.html
+1,124,Flat,25/07/2014,Maubourguet Pays du Val d’Adour,FRA,43.4692,0.0364,Bergerac,FRA,44.85,0.48,208.5,http://www.letour.com/le-tour/2014/us/stage-19.html
+1,125,Individual time-trial,26/07/2014,Bergerac,FRA,44.85,0.48,Périgueux,FRA,45.1929,0.7217,54,http://www.letour.com/le-tour/2014/us/stage-20.html
+1,126,Flat,27/07/2014,Évry,FRA,48.6238,2.4296,Paris Champs-Élysées,FRA,48.8567,2.3508,137.5,http://www.letour.com/le-tour/2014/us/stage-21.html
+1,127,Flat,5/7/2014,Leeds,ENG,53.799722,-1.549167,Harrogate,ENG,53.991,-1.539,190.5,http://www.letour.com/le-tour/2014/us/stage-1.html
+1,128,Hilly,6/7/2014,York,ENG,53.958333,-1.080278,Sheffield,ENG,53.383611,-1.466944,201,http://www.letour.com/le-tour/2014/us/stage-2.html
+1,129,Flat,7/7/2014,Cambridge,ENG,52.205,0.119,Londres,ENG,51.507222,-0.1275,155,http://www.letour.com/le-tour/2014/us/stage-3.html
+1,130,Flat,8/7/2014,Le Touquet-Paris-Plage,FRA,50.5186,1.595,Lille Métropole,FRA,50.6372,3.0633,163.5,http://www.letour.com/le-tour/2014/us/stage-4.html
+1,131,Hilly,9/7/2014,Ypres,FRA,50.85,2.883333,Arenberg Porte du Hainaut,FRA,50.399,3.4125,155.5,http://www.letour.com/le-tour/2014/us/stage-5.html
+1,132,Flat,10/7/2014,Arras,FRA,50.2897,2.7808,Reims,FRA,49.2628,4.0347,194,http://www.letour.com/le-tour/2014/us/stage-6.html
+1,133,Flat,11/7/2014,Épernay,FRA,49.0403,3.96,Nancy,FRA,48.6936,6.1846,234.5,http://www.letour.com/le-tour/2014/us/stage-7.html
+1,134,Hilly,12/7/2014,Tomblaine,FRA,48.6833,6.2167,Gérardmer La Mauselaine,FRA,48.08,6.88,161,http://www.letour.com/le-tour/2014/us/stage-8.html
+1,135,Hilly,13/07/2014,Gérardmer,FRA,48.08,6.88,Mulhouse,FRA,47.75,7.34,170,http://www.letour.com/le-tour/2014/us/stage-9.html
+1,136,Mountain,14/07/2014,Mulhouse,FRA,47.75,7.34,La Planche des Belles Filles,FRA,47.772222,6.777778,161.5,http://www.letour.com/le-tour/2014/us/stage-10.html
+1,137,Hilly,16/07/2014,Besançon,FRA,47.2431,6.0219,Oyonnax,FRA,46.2561,5.6556,187.5,http://www.letour.com/le-tour/2014/us/stage-11.html
+1,138,Flat,17/07/2014,Bourg-en-Bresse,FRA,46.2056,5.2289,Saint-Étienne,FRA,45.4347,4.3903,185.5,http://www.letour.com/le-tour/2014/us/stage-12.html
+1,139,Mountain,18/07/2014,Saint-Étienne,FRA,45.4347,4.3903,Chamrousse,FRA,45.1092,5.8744,197.5,http://www.letour.com/le-tour/2014/us/stage-13.html
+1,140,Mountain,19/07/2014,Grenoble,FRA,45.2002,5.7222,Risoul,FRA,44.6497,6.6408,177,http://www.letour.com/le-tour/2014/us/stage-14.html
+1,141,Flat,20/07/2014,Tallard,FRA,44.4625,6.0553,Nîmes,FRA,43.838,4.361,222,http://www.letour.com/le-tour/2014/us/stage-15.html
+1,142,Mountain,22/07/2014,Carcassonne,FRA,43.21,2.35,Bagnères-de-Luchon,FRA,42.7917,0.5947,237.5,http://www.letour.com/le-tour/2014/us/stage-16.html
+1,143,Mountain,23/07/2014,Saint-Gaudens,FRA,43.1089,0.7242,Saint-Lary Pla d’Adet,FRA,42.82,0.32,124.5,http://www.letour.com/le-tour/2014/us/stage-17.html
+1,144,Mountain,24/07/2014,Pau,FRA,43.3,-0.37,Hautacam,FRA,42.972222,-0.008056,145.5,http://www.letour.com/le-tour/2014/us/stage-18.html
+1,145,Flat,25/07/2014,Maubourguet Pays du Val d’Adour,FRA,43.4692,0.0364,Bergerac,FRA,44.85,0.48,208.5,http://www.letour.com/le-tour/2014/us/stage-19.html
+1,146,Individual time-trial,26/07/2014,Bergerac,FRA,44.85,0.48,Périgueux,FRA,45.1929,0.7217,54,http://www.letour.com/le-tour/2014/us/stage-20.html
+1,147,Flat,27/07/2014,Évry,FRA,48.6238,2.4296,Paris Champs-Élysées,FRA,48.8567,2.3508,137.5,http://www.letour.com/le-tour/2014/us/stage-21.html
+1,148,Flat,5/7/2014,Leeds,ENG,53.799722,-1.549167,Harrogate,ENG,53.991,-1.539,190.5,http://www.letour.com/le-tour/2014/us/stage-1.html
+1,149,Hilly,6/7/2014,York,ENG,53.958333,-1.080278,Sheffield,ENG,53.383611,-1.466944,201,http://www.letour.com/le-tour/2014/us/stage-2.html
+1,150,Flat,7/7/2014,Cambridge,ENG,52.205,0.119,Londres,ENG,51.507222,-0.1275,155,http://www.letour.com/le-tour/2014/us/stage-3.html
+1,151,Flat,8/7/2014,Le Touquet-Paris-Plage,FRA,50.5186,1.595,Lille Métropole,FRA,50.6372,3.0633,163.5,http://www.letour.com/le-tour/2014/us/stage-4.html
+1,152,Hilly,9/7/2014,Ypres,FRA,50.85,2.883333,Arenberg Porte du Hainaut,FRA,50.399,3.4125,155.5,http://www.letour.com/le-tour/2014/us/stage-5.html
+1,153,Flat,10/7/2014,Arras,FRA,50.2897,2.7808,Reims,FRA,49.2628,4.0347,194,http://www.letour.com/le-tour/2014/us/stage-6.html
+1,154,Flat,11/7/2014,Épernay,FRA,49.0403,3.96,Nancy,FRA,48.6936,6.1846,234.5,http://www.letour.com/le-tour/2014/us/stage-7.html
+1,155,Hilly,12/7/2014,Tomblaine,FRA,48.6833,6.2167,Gérardmer La Mauselaine,FRA,48.08,6.88,161,http://www.letour.com/le-tour/2014/us/stage-8.html
+1,156,Hilly,13/07/2014,Gérardmer,FRA,48.08,6.88,Mulhouse,FRA,47.75,7.34,170,http://www.letour.com/le-tour/2014/us/stage-9.html
+1,157,Mountain,14/07/2014,Mulhouse,FRA,47.75,7.34,La Planche des Belles Filles,FRA,47.772222,6.777778,161.5,http://www.letour.com/le-tour/2014/us/stage-10.html
+1,158,Hilly,16/07/2014,Besançon,FRA,47.2431,6.0219,Oyonnax,FRA,46.2561,5.6556,187.5,http://www.letour.com/le-tour/2014/us/stage-11.html
+1,159,Flat,17/07/2014,Bourg-en-Bresse,FRA,46.2056,5.2289,Saint-Étienne,FRA,45.4347,4.3903,185.5,http://www.letour.com/le-tour/2014/us/stage-12.html
+1,160,Mountain,18/07/2014,Saint-Étienne,FRA,45.4347,4.3903,Chamrousse,FRA,45.1092,5.8744,197.5,http://www.letour.com/le-tour/2014/us/stage-13.html
+1,161,Mountain,19/07/2014,Grenoble,FRA,45.2002,5.7222,Risoul,FRA,44.6497,6.6408,177,http://www.letour.com/le-tour/2014/us/stage-14.html
+1,162,Flat,20/07/2014,Tallard,FRA,44.4625,6.0553,Nîmes,FRA,43.838,4.361,222,http://www.letour.com/le-tour/2014/us/stage-15.html
+1,163,Mountain,22/07/2014,Carcassonne,FRA,43.21,2.35,Bagnères-de-Luchon,FRA,42.7917,0.5947,237.5,http://www.letour.com/le-tour/2014/us/stage-16.html
+1,164,Mountain,23/07/2014,Saint-Gaudens,FRA,43.1089,0.7242,Saint-Lary Pla d’Adet,FRA,42.82,0.32,124.5,http://www.letour.com/le-tour/2014/us/stage-17.html
+1,165,Mountain,24/07/2014,Pau,FRA,43.3,-0.37,Hautacam,FRA,42.972222,-0.008056,145.5,http://www.letour.com/le-tour/2014/us/stage-18.html
+1,166,Flat,25/07/2014,Maubourguet Pays du Val d’Adour,FRA,43.4692,0.0364,Bergerac,FRA,44.85,0.48,208.5,http://www.letour.com/le-tour/2014/us/stage-19.html
+1,167,Individual time-trial,26/07/2014,Bergerac,FRA,44.85,0.48,Périgueux,FRA,45.1929,0.7217,54,http://www.letour.com/le-tour/2014/us/stage-20.html
+1,168,Flat,27/07/2014,Évry,FRA,48.6238,2.4296,Paris Champs-Élysées,FRA,48.8567,2.3508,137.5,http://www.letour.com/le-tour/2014/us/stage-21.html
+1,169,Flat,5/7/2014,Leeds,ENG,53.799722,-1.549167,Harrogate,ENG,53.991,-1.539,190.5,http://www.letour.com/le-tour/2014/us/stage-1.html
+1,170,Hilly,6/7/2014,York,ENG,53.958333,-1.080278,Sheffield,ENG,53.383611,-1.466944,201,http://www.letour.com/le-tour/2014/us/stage-2.html
+1,171,Flat,7/7/2014,Cambridge,ENG,52.205,0.119,Londres,ENG,51.507222,-0.1275,155,http://www.letour.com/le-tour/2014/us/stage-3.html
+1,172,Flat,8/7/2014,Le Touquet-Paris-Plage,FRA,50.5186,1.595,Lille Métropole,FRA,50.6372,3.0633,163.5,http://www.letour.com/le-tour/2014/us/stage-4.html
+1,173,Hilly,9/7/2014,Ypres,FRA,50.85,2.883333,Arenberg Porte du Hainaut,FRA,50.399,3.4125,155.5,http://www.letour.com/le-tour/2014/us/stage-5.html
+1,174,Flat,10/7/2014,Arras,FRA,50.2897,2.7808,Reims,FRA,49.2628,4.0347,194,http://www.letour.com/le-tour/2014/us/stage-6.html
+1,175,Flat,11/7/2014,Épernay,FRA,49.0403,3.96,Nancy,FRA,48.6936,6.1846,234.5,http://www.letour.com/le-tour/2014/us/stage-7.html
+1,176,Hilly,12/7/2014,Tomblaine,FRA,48.6833,6.2167,Gérardmer La Mauselaine,FRA,48.08,6.88,161,http://www.letour.com/le-tour/2014/us/stage-8.html
+1,177,Hilly,13/07/2014,Gérardmer,FRA,48.08,6.88,Mulhouse,FRA,47.75,7.34,170,http://www.letour.com/le-tour/2014/us/stage-9.html
+1,178,Mountain,14/07/2014,Mulhouse,FRA,47.75,7.34,La Planche des Belles Filles,FRA,47.772222,6.777778,161.5,http://www.letour.com/le-tour/2014/us/stage-10.html
+1,179,Hilly,16/07/2014,Besançon,FRA,47.2431,6.0219,Oyonnax,FRA,46.2561,5.6556,187.5,http://www.letour.com/le-tour/2014/us/stage-11.html
+1,180,Flat,17/07/2014,Bourg-en-Bresse,FRA,46.2056,5.2289,Saint-Étienne,FRA,45.4347,4.3903,185.5,http://www.letour.com/le-tour/2014/us/stage-12.html
+1,181,Mountain,18/07/2014,Saint-Étienne,FRA,45.4347,4.3903,Chamrousse,FRA,45.1092,5.8744,197.5,http://www.letour.com/le-tour/2014/us/stage-13.html
+1,182,Mountain,19/07/2014,Grenoble,FRA,45.2002,5.7222,Risoul,FRA,44.6497,6.6408,177,http://www.letour.com/le-tour/2014/us/stage-14.html
+1,183,Flat,20/07/2014,Tallard,FRA,44.4625,6.0553,Nîmes,FRA,43.838,4.361,222,http://www.letour.com/le-tour/2014/us/stage-15.html
+1,184,Mountain,22/07/2014,Carcassonne,FRA,43.21,2.35,Bagnères-de-Luchon,FRA,42.7917,0.5947,237.5,http://www.letour.com/le-tour/2014/us/stage-16.html
+1,185,Mountain,23/07/2014,Saint-Gaudens,FRA,43.1089,0.7242,Saint-Lary Pla d’Adet,FRA,42.82,0.32,124.5,http://www.letour.com/le-tour/2014/us/stage-17.html
+1,186,Mountain,24/07/2014,Pau,FRA,43.3,-0.37,Hautacam,FRA,42.972222,-0.008056,145.5,http://www.letour.com/le-tour/2014/us/stage-18.html
+1,187,Flat,25/07/2014,Maubourguet Pays du Val d’Adour,FRA,43.4692,0.0364,Bergerac,FRA,44.85,0.48,208.5,http://www.letour.com/le-tour/2014/us/stage-19.html
+1,188,Individual time-trial,26/07/2014,Bergerac,FRA,44.85,0.48,Périgueux,FRA,45.1929,0.7217,54,http://www.letour.com/le-tour/2014/us/stage-20.html
+1,189,Flat,27/07/2014,Évry,FRA,48.6238,2.4296,Paris Champs-Élysées,FRA,48.8567,2.3508,137.5,http://www.letour.com/le-tour/2014/us/stage-21.html
+1,190,Flat,5/7/2014,Leeds,ENG,53.799722,-1.549167,Harrogate,ENG,53.991,-1.539,190.5,http://www.letour.com/le-tour/2014/us/stage-1.html
+1,191,Hilly,6/7/2014,York,ENG,53.958333,-1.080278,Sheffield,ENG,53.383611,-1.466944,201,http://www.letour.com/le-tour/2014/us/stage-2.html
+1,192,Flat,7/7/2014,Cambridge,ENG,52.205,0.119,Londres,ENG,51.507222,-0.1275,155,http://www.letour.com/le-tour/2014/us/stage-3.html
+1,193,Flat,8/7/2014,Le Touquet-Paris-Plage,FRA,50.5186,1.595,Lille Métropole,FRA,50.6372,3.0633,163.5,http://www.letour.com/le-tour/2014/us/stage-4.html
+1,194,Hilly,9/7/2014,Ypres,FRA,50.85,2.883333,Arenberg Porte du Hainaut,FRA,50.399,3.4125,155.5,http://www.letour.com/le-tour/2014/us/stage-5.html
+1,195,Flat,10/7/2014,Arras,FRA,50.2897,2.7808,Reims,FRA,49.2628,4.0347,194,http://www.letour.com/le-tour/2014/us/stage-6.html
+1,196,Flat,11/7/2014,Épernay,FRA,49.0403,3.96,Nancy,FRA,48.6936,6.1846,234.5,http://www.letour.com/le-tour/2014/us/stage-7.html
+1,197,Hilly,12/7/2014,Tomblaine,FRA,48.6833,6.2167,Gérardmer La Mauselaine,FRA,48.08,6.88,161,http://www.letour.com/le-tour/2014/us/stage-8.html
+1,198,Hilly,13/07/2014,Gérardmer,FRA,48.08,6.88,Mulhouse,FRA,47.75,7.34,170,http://www.letour.com/le-tour/2014/us/stage-9.html
+1,199,Mountain,14/07/2014,Mulhouse,FRA,47.75,7.34,La Planche des Belles Filles,FRA,47.772222,6.777778,161.5,http://www.letour.com/le-tour/2014/us/stage-10.html
+1,200,Hilly,16/07/2014,Besançon,FRA,47.2431,6.0219,Oyonnax,FRA,46.2561,5.6556,187.5,http://www.letour.com/le-tour/2014/us/stage-11.html
+1,201,Flat,17/07/2014,Bourg-en-Bresse,FRA,46.2056,5.2289,Saint-Étienne,FRA,45.4347,4.3903,185.5,http://www.letour.com/le-tour/2014/us/stage-12.html
+1,202,Mountain,18/07/2014,Saint-Étienne,FRA,45.4347,4.3903,Chamrousse,FRA,45.1092,5.8744,197.5,http://www.letour.com/le-tour/2014/us/stage-13.html
+1,203,Mountain,19/07/2014,Grenoble,FRA,45.2002,5.7222,Risoul,FRA,44.6497,6.6408,177,http://www.letour.com/le-tour/2014/us/stage-14.html
+1,204,Flat,20/07/2014,Tallard,FRA,44.4625,6.0553,Nîmes,FRA,43.838,4.361,222,http://www.letour.com/le-tour/2014/us/stage-15.html
+1,205,Mountain,22/07/2014,Carcassonne,FRA,43.21,2.35,Bagnères-de-Luchon,FRA,42.7917,0.5947,237.5,http://www.letour.com/le-tour/2014/us/stage-16.html
+1,206,Mountain,23/07/2014,Saint-Gaudens,FRA,43.1089,0.7242,Saint-Lary Pla d’Adet,FRA,42.82,0.32,124.5,http://www.letour.com/le-tour/2014/us/stage-17.html
+1,207,Mountain,24/07/2014,Pau,FRA,43.3,-0.37,Hautacam,FRA,42.972222,-0.008056,145.5,http://www.letour.com/le-tour/2014/us/stage-18.html
+1,208,Flat,25/07/2014,Maubourguet Pays du Val d’Adour,FRA,43.4692,0.0364,Bergerac,FRA,44.85,0.48,208.5,http://www.letour.com/le-tour/2014/us/stage-19.html
+1,209,Individual time-trial,26/07/2014,Bergerac,FRA,44.85,0.48,Périgueux,FRA,45.1929,0.7217,54,http://www.letour.com/le-tour/2014/us/stage-20.html
+1,210,Flat,27/07/2014,Évry,FRA,48.6238,2.4296,Paris Champs-Élysées,FRA,48.8567,2.3508,137.5,http://www.letour.com/le-tour/2014/us/stage-21.html

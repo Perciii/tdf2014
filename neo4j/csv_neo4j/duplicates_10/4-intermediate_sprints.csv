@@ -1,0 +1,101 @@
+STAGE_NUMBER,AT_KM,CITY,COUNTRY,LATITUDE,LONGITUDE
+1,77,Newbiggin,ENG,54.26929,-2.00449
+2,68.5,Keighley,ENG,53.867,-1.911
+3,108,Epping Forest,ENG,51.66,0.05
+4,92,Cassel,FRA,50.8006,2.4883
+5,97,Templeuve,FRA,50.5272,3.1758
+6,119,Pinon,FRA,49.4883,3.4464
+7,148,Hannonville-Sous-Les-Côtes,FRA,49.0408,5.6592
+8,100,Dinozé,FRA,48.1411,6.4772
+9,105,Linthal,FRA,47.9475,7.1311
+10,39.5,Muhlele (Gunsbach),FRA,48.0483,7.1767
+11,89,Charcier,FRA,46.6281,5.7514
+12,39.5,Romanèche-Thorins,FRA,46.1906,4.7369
+13,169.5,Saint-Martin-D'hères,FRA,45.1672,5.7653
+14,40,La Paute (Bourg-D'oisans),FRA,45.0558,6.0303
+15,175.5,La Galine (Saint-Rémy-De-Provence),FRA,43.79,4.8325
+16,123.5,Saint-Girons,FRA,42.9858,1.1467
+17,31,Saint-Béat,FRA,42.915,0.6933
+18,61.5,Trébons,FRA,43.1022,0.1219
+19,130.5,Tonneins,FRA,44.3906,0.3092
+21,91,Paris Champs-Élysées,FRA,48.8567,2.3508
+22,77,Newbiggin,ENG,54.26929,-2.00449
+23,68.5,Keighley,ENG,53.867,-1.911
+24,108,Epping Forest,ENG,51.66,0.05
+25,92,Cassel,FRA,50.8006,2.4883
+26,97,Templeuve,FRA,50.5272,3.1758
+27,119,Pinon,FRA,49.4883,3.4464
+28,148,Hannonville-Sous-Les-Côtes,FRA,49.0408,5.6592
+29,100,Dinozé,FRA,48.1411,6.4772
+30,105,Linthal,FRA,47.9475,7.1311
+31,39.5,Muhlele (Gunsbach),FRA,48.0483,7.1767
+32,89,Charcier,FRA,46.6281,5.7514
+33,39.5,Romanèche-Thorins,FRA,46.1906,4.7369
+34,169.5,Saint-Martin-D'hères,FRA,45.1672,5.7653
+35,40,La Paute (Bourg-D'oisans),FRA,45.0558,6.0303
+36,175.5,La Galine (Saint-Rémy-De-Provence),FRA,43.79,4.8325
+37,123.5,Saint-Girons,FRA,42.9858,1.1467
+38,31,Saint-Béat,FRA,42.915,0.6933
+39,61.5,Trébons,FRA,43.1022,0.1219
+40,130.5,Tonneins,FRA,44.3906,0.3092
+42,91,Paris Champs-Élysées,FRA,48.8567,2.3508
+43,77,Newbiggin,ENG,54.26929,-2.00449
+44,68.5,Keighley,ENG,53.867,-1.911
+45,108,Epping Forest,ENG,51.66,0.05
+46,92,Cassel,FRA,50.8006,2.4883
+47,97,Templeuve,FRA,50.5272,3.1758
+48,119,Pinon,FRA,49.4883,3.4464
+49,148,Hannonville-Sous-Les-Côtes,FRA,49.0408,5.6592
+50,100,Dinozé,FRA,48.1411,6.4772
+51,105,Linthal,FRA,47.9475,7.1311
+52,39.5,Muhlele (Gunsbach),FRA,48.0483,7.1767
+53,89,Charcier,FRA,46.6281,5.7514
+54,39.5,Romanèche-Thorins,FRA,46.1906,4.7369
+55,169.5,Saint-Martin-D'hères,FRA,45.1672,5.7653
+56,40,La Paute (Bourg-D'oisans),FRA,45.0558,6.0303
+57,175.5,La Galine (Saint-Rémy-De-Provence),FRA,43.79,4.8325
+58,123.5,Saint-Girons,FRA,42.9858,1.1467
+59,31,Saint-Béat,FRA,42.915,0.6933
+60,61.5,Trébons,FRA,43.1022,0.1219
+61,130.5,Tonneins,FRA,44.3906,0.3092
+63,91,Paris Champs-Élysées,FRA,48.8567,2.3508
+64,77,Newbiggin,ENG,54.26929,-2.00449
+65,68.5,Keighley,ENG,53.867,-1.911
+66,108,Epping Forest,ENG,51.66,0.05
+67,92,Cassel,FRA,50.8006,2.4883
+68,97,Templeuve,FRA,50.5272,3.1758
+69,119,Pinon,FRA,49.4883,3.4464
+70,148,Hannonville-Sous-Les-Côtes,FRA,49.0408,5.6592
+71,100,Dinozé,FRA,48.1411,6.4772
+72,105,Linthal,FRA,47.9475,7.1311
+73,39.5,Muhlele (Gunsbach),FRA,48.0483,7.1767
+74,89,Charcier,FRA,46.6281,5.7514
+75,39.5,Romanèche-Thorins,FRA,46.1906,4.7369
+76,169.5,Saint-Martin-D'hères,FRA,45.1672,5.7653
+77,40,La Paute (Bourg-D'oisans),FRA,45.0558,6.0303
+78,175.5,La Galine (Saint-Rémy-De-Provence),FRA,43.79,4.8325
+79,123.5,Saint-Girons,FRA,42.9858,1.1467
+80,31,Saint-Béat,FRA,42.915,0.6933
+81,61.5,Trébons,FRA,43.1022,0.1219
+82,130.5,Tonneins,FRA,44.3906,0.3092
+84,91,Paris Champs-Élysées,FRA,48.8567,2.3508
+85,77,Newbiggin,ENG,54.26929,-2.00449
+86,68.5,Keighley,ENG,53.867,-1.911
+87,108,Epping Forest,ENG,51.66,0.05
+88,92,Cassel,FRA,50.8006,2.4883
+89,97,Templeuve,FRA,50.5272,3.1758
+90,119,Pinon,FRA,49.4883,3.4464
+91,148,Hannonville-Sous-Les-Côtes,FRA,49.0408,5.6592
+92,100,Dinozé,FRA,48.1411,6.4772
+93,105,Linthal,FRA,47.9475,7.1311
+94,39.5,Muhlele (Gunsbach),FRA,48.0483,7.1767
+95,89,Charcier,FRA,46.6281,5.7514
+96,39.5,Romanèche-Thorins,FRA,46.1906,4.7369
+97,169.5,Saint-Martin-D'hères,FRA,45.1672,5.7653
+98,40,La Paute (Bourg-D'oisans),FRA,45.0558,6.0303
+99,175.5,La Galine (Saint-Rémy-De-Provence),FRA,43.79,4.8325
+100,123.5,Saint-Girons,FRA,42.9858,1.1467
+101,31,Saint-Béat,FRA,42.915,0.6933
+102,61.5,Trébons,FRA,43.1022,0.1219
+103,130.5,Tonneins,FRA,44.3906,0.3092
+105,91,Paris Champs-Élysées,FRA,48.8567,2.3508
